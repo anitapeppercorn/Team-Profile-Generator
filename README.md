@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 This project is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Because testing is key to making code maintainable, we also write unit tests for each part of the code and ensure that it passes all of them. This application uses Jest for running the unit tests and Inquirer for collecting input from the user. The application is invoked by using the following command:node index.js
 1. A sample HTML file generated using the application is submitted here.
-2. This GitHub repository contains the application code
+2. This GitHub repository contains the application code; https://github.com/anitapeppercorn/Team-Profile-Generator
 3. Here is a link to a walkthrough video that demonstrates its functionality and all of the tests passing. It takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 4. The application has these classes: Employee, Manager, Engineer, and Intern.
 
