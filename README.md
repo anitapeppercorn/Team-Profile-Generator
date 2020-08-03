@@ -4,6 +4,34 @@ This project is a Node.js command-line application that takes in information abo
 2. This GitHub repository contains the application code; https://github.com/anitapeppercorn/Team-Profile-Generator
 3. Here is a link to a walkthrough video that demonstrates its functionality and all of the tests passing. It takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 4. The application has these classes: Employee, Manager, Engineer, and Intern.
+[MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg) 
+ 
+ ## Contact 
+![Badge](https://img.shields.io/badge/Github-anitapeppercorn-4cbbb9) 
+![Profile Image](https://github.com/anitapeppercorn.png?size=50)
+View the author's portfolio at:  https://anitapeppercorn.github.io/anitaprofileportfolio/
+![GIF of work](/images/runtest.gif)
+![GIF of work](/images/promptresponse.gif)
+![GIF of work](/images/video.gif)
+If you have any questions, contact the author directly at anita@peppercorn.ai.
+  
+
+  ### Installation
+  Packages required to run this program are: Packages required include: inquirer, fs, jest
+
+  ## Contributors
+  Anita Ganti
+
+  ### Usage
+  Examples of how to use this program:  Use this project to create a webpage for your team
+  
+  ### License
+  MIT
+  
+  ### Tests
+  To test, run the following command: npm run test
+  
+
 
 ## User Story
 AS A manager
