@@ -12,8 +12,8 @@ This project is a Node.js command-line application that takes in information abo
 View the author's portfolio at:  https://anitapeppercorn.github.io/anitaprofileportfolio/
 ![GIF of work](/images/runtest.gif)
 ![GIF of work](/images/promptresponse.gif)
-![GIF of work](/images/video.gif)
-If you have any questions, contact the author directly at anita@peppercorn.ai.
+![Screen Image of Page](/images/empire.png)
+contact the author at anita@peppercorn.ai.
   
 
   ### Installation
