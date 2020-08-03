@@ -1,0 +1,33 @@
+{
+  "name": "the-empire",
+  "version": "1.0.0",
+  "description": "Create my Team to take over the Galaxy",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitapeppercorn/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "JEST",
+    "TDD",
+    "OOP"
+  ],
+  "author": "Anita Ganti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anitapeppercorn/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/anitapeppercorn/Team-Profile-Generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "jest": "^26.2.2"
+  },
+  "devDependencies": {}
+}
